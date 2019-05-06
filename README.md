@@ -1,2 +1,0 @@
-# AutomationMac
-E-commerce 
